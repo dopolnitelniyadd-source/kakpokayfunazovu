@@ -4,7 +4,8 @@
   "description": "Генератор названий для проектов, веток и котов — как по кайфу.",
   "type": "module",
   "bin": {
-    "kakpokayfu": "bin/kakpokayfu.js"
+    "kakpokayfu": "bin/kakpokayfu.js",
+    "krestiki": "bin/krestiki.js"
   },
   "files": ["bin", "src"],
   "scripts": {
