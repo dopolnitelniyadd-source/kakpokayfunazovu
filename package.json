@@ -1,0 +1,17 @@
+{
+  "name": "kakpokayfunazovu",
+  "version": "0.1.0",
+  "description": "Генератор названий для проектов, веток и котов — как по кайфу.",
+  "type": "module",
+  "bin": {
+    "kakpokayfu": "bin/kakpokayfu.js"
+  },
+  "files": ["bin", "src"],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.3"
+  },
+  "license": "MIT"
+}
